@@ -67,7 +67,7 @@ class App extends Component {
         {
           id: '6',
           nome: 'Joyce Silva',
-          descricao: 'Oiie',
+          descricao: ':D',
           imgperfil: 'https://scontent.fjdf2-1.fna.fbcdn.net/v/t1.6435-9/122689108_122726869610482_8399208025431687896_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=W162PxfuMrkAX9bcJW6&_nc_ht=scontent.fjdf2-1.fna&oh=ef42e2b49da9b939d4ead45932cec0b4&oe=60B39782',
           imgPublicacao: 'https://scontent.fjdf2-1.fna.fbcdn.net/v/t1.6435-9/122689108_122726869610482_8399208025431687896_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=W162PxfuMrkAX9bcJW6&_nc_ht=scontent.fjdf2-1.fna&oh=ef42e2b49da9b939d4ead45932cec0b4&oe=60B39782',
           likeada: false,
